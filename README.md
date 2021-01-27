@@ -1,2 +1,2 @@
-# Second-React-Scoreboard
-My second React test is a Basketball Scoreboard App
+# Scoreboard App
+My second React app is more complicated than my initial tests.  It is a basketball scoreboard with scores for home and away teams, as well as individual buttons for 1, 2, or 3 points for each team.  Each team's scoreboard and buttons are individual React Components, and the buttons change the state of a container component, which is then passed to the appropriate scoreboard as a prop.
