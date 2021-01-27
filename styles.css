@@ -1,0 +1,63 @@
+.home_sign {
+    display: inline-block;
+    position: absolute;
+    font-family: verdana;
+    font-size: 40px;
+    top: 0%;
+    left: 23%;
+}
+
+.away_sign {
+    display: inline-block;
+    position: absolute;
+    font-family: verdana;
+    font-size: 40px;
+    top: 0%;
+    left: 63%;
+}
+
+.home_board {
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+    color: red;
+    background-color: black;
+    top: 15%;
+    left: 28%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 100px;
+    
+    
+    
+}
+
+.away_board {
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+    color: red;
+    background-color: black;
+    top: 15%;
+    left: 65%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 100px;
+}
+
+.home_buttons {
+    display: inline-block;
+    position: absolute;
+    top: 30%;
+    left: 23%;
+}
+
+.away_buttons {
+    display: inline-block;
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    
+}
